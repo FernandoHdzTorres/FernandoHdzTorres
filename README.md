@@ -59,6 +59,14 @@ I'm a full-time student and freelance full-stack developer based in Mexico. I am
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FernandoHdzTorres&show_icons=true&theme=github_dark&title_color=0066FF&icon_color=0066FF&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FernandoHdzTorres&show_icons=true&theme=default&title_color=0066FF&icon_color=0066FF&hide_border=true">
+    <img alt="Estadísticas de Fernando" src="https://github-readme-stats.vercel.app/api?username=FernandoHdzTorres&show_icons=true&theme=default&title_color=0066FF&icon_color=0066FF&hide_border=true">
+  </picture>
+</p>
+
 <br>
 
 <p align="center">
