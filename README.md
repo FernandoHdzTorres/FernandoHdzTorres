@@ -23,33 +23,36 @@ I'm a full-time student and freelance full-stack developer based in Mexico. I am
 - **Languages**:
 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,c++,c#,java,python" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py" />
     </a>
   
 - **Front-End Development**:
 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,scss,angular" />
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular" />
     </a>
 
 
 - **Back-End Development**:
 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php, nodejs" />
+      <img src="https://skillicons.dev/icons?i=php,nodejs" />
     </a>
 
 
-- **Data bases**:
+- **DataBases**:
 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,scss,angular" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     </a>
 
 
 
 - **Softwares and Tools**:
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio" />
+  </a>
     
 
 <br>
