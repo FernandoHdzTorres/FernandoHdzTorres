@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0066FF&size=30&center=false&width=1000&lines=Hey!+its+Fernando+Hernández+Torres+!!!;Intelligent+Systems+Student+At+UASLP...;Full+Stack+Web+Developer...;Networking+Enthusiast..."/>
 
 ## 🥷🏼 **About me**
-
+I'm a full-time student and freelance full-stack developer based in Mexico. I am a huge technology enthusiast with a deep interest in web design, networking, and cybersecurity.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
