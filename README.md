@@ -35,9 +35,7 @@
 <br>
 
 <p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/FernandoHdzTorres/FernandoHdzTorres/output/dist/github-contribution-grid-snake.svg" alt="snake">
-</p>
+  <img src="https://raw.githubusercontent.com/FernandoHdzTorres/FernandoHdzTorres/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
