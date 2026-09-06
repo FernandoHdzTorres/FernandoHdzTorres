@@ -6,7 +6,7 @@
 I'm a full-time student and freelance full-stack developer based in Mexico. I am a huge technology enthusiast with a deep interest in web design, networking, and cybersecurity.
 
 <p align="center">
-  ### Let's Connect
+  <h3>Let's Connect</h3>
   <a href="https://www.facebook.com/TU_PERFIL_FACEBOOK"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/TU_USUARIO_INSTAGRAM"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/TU_ENLACE_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
