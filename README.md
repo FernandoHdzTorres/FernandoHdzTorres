@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  ç
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
